@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs"
+  contactDetails:
+    name: "Arbi Dwi Wijaya - Developer"
+    email: "arbi@mail.com"
+  onCallSupport:
+    - (62) 8111222333
+    - (62) 8222333444

@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs"
+  contactDetails:
+    name: "Arbi Dwi Wijaya - QA Lead"
+    email: "arbiqa@mail.com"
+  onCallSupport:
+    - (62) 8111222666
+    - (62) 8222333555

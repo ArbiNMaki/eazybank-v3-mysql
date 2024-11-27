@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related prod APIs"
+  contactDetails:
+    name: "Arbi Dwi Wijaya - Product Owner"
+    email: "arbiprod@mail.com"
+  onCallSupport:
+    - (62) 8111222111
+    - (62) 8222333999
